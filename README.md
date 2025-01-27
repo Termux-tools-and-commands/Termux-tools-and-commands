@@ -8,5 +8,3 @@
 ![Termux-tools-and-commands GitHub stats](https://github-readme-stats.vercel.app/api?username=Termux-tools-and-commands&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&show_icons=true)
 
 
-
-- 📫 [How to reach me!](https://github.com/Termux-tools-and-commands/Termux-tools-and-commands/blob/main/README.md#-how-to-reach-me)
